@@ -1,21 +1,30 @@
 body{
   text-align: center;
-  background: #000;
-  color: #fff;
-  font-family: helvetica;
+  background: #ccc;
+  color: #000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20pt;
+  margin: 30px;
+  padding: 30px;
+  border: 5px solid #FFCE54;
+  border-width: thin;
 }
 p{
-  font-size: 14pt;
+  font-size: 12pt;
+}
+p.one{
+  font-size: 20pt;
 }
 nav{
   background-color: rgba(128, 128, 128, 0.2);
   font-family: times new roman;
-  font-size: 18pt;
+  font-size: 14pt;
   text-align: center;
 }
 a{
   color: #fff;
   text-decoration: none;
+  padding: 20px;
 }
 a:hover{
   color: black;
@@ -23,4 +32,7 @@ a:hover{
 img{
   border: 5px solid #fff;
   border-radius: 250px;
+  border-width: thin;
+  border-color: #FFCE54;
+  margin-top: 20px;
 }
