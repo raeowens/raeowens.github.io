@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  background: #000;
+  color: #fff;
+  font-family: helvetica;
+}
+p{
+  font-size: 14pt;
+}
+nav{
+  background-color: rgba(128, 128, 128, 0.2);
+  font-family: times new roman;
+  font-size: 18pt;
+  text-align: center;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+}
+img{
+  border: 5px solid #fff;
+  border-radius: 250px;
+}
